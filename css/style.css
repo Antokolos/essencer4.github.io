@@ -1236,8 +1236,8 @@ hr::after {
     background-image: url("../img/header-team-mobile@1x.jpg"); }
   .page-header__contacts {
     background-image: url("../img/header-contacts-mobile@1x.jpg"); }
-  .page-header__others {
-    background-image: url("../img/header-others-mobile@1x.jpg"); } }
+  .page-header__other {
+    background-image: url("../img/header-other-mobile@1x.jpg"); } }
 
 @media (min-width: 768px) {
   .page-header {
@@ -1256,8 +1256,8 @@ hr::after {
     background-image: url("../img/header-team-tablet@1x.jpg"); }
   .page-header__contacts {
     background-image: url("../img/header-contacts-tablet@1x.jpg"); }
-  .page-header__others {
-    background-image: url("../img/header-others-tablet@1x.jpg"); } }
+  .page-header__other {
+    background-image: url("../img/header-other-tablet@1x.jpg"); } }
 
 @media (min-width: 1200px) {
   .page-header {
@@ -1281,8 +1281,8 @@ hr::after {
     background-image: url("../img/header-team-desktop@1x.jpg"); }
   .page-header__contacts {
     background-image: url("../img/header-contacts-desktop@1x.jpg"); }
-  .page-header__others {
-    background-image: url("../img/header-others-desktop@1x.jpg");
+  .page-header__other {
+    background-image: url("../img/header-other-desktop@1x.jpg");
     background-position: 50% 50%; } }
 
 .switch-lang__block {
@@ -1702,36 +1702,36 @@ hr::after {
   background-color: #4458D6;
   color: white !important; }
 
-.white-block__background-others-adventurous {
+.white-block__background-other-adventurous {
   background-image: url("../img/games-adventurous-background.jpg");
   background-size: cover;
   background-position: 50% 50%; }
 
-.white-block__background-others-monster {
-  background-image: url("../img/others-games-1-background.jpg");
+.white-block__background-other-monster {
+  background-image: url("../img/other-games-1-background.jpg");
   background-size: cover; }
 
-.white-block__background-others-aldar {
-  background-image: url("../img/others-games-2-background.jpg");
+.white-block__background-other-aldar {
+  background-image: url("../img/other-games-2-background.jpg");
   background-size: cover;
   background-position: 50% 50%; }
 
-.white-block__background-others-zog {
-  background-image: url("../img/others-games-3-background.jpg");
+.white-block__background-other-zog {
+  background-image: url("../img/other-games-3-background.jpg");
   background-size: cover;
   background-position: 50% 50%; }
 
-.white-block__background-others-red {
+.white-block__background-other-red {
   background-image: url("../img/games-red-background.jpg");
   background-size: cover;
   background-position: 50% 50%; }
 
-.white-block__background-others-island {
+.white-block__background-other-island {
   background-image: url("../img/games-island-background.jpg");
   background-size: cover;
   background-position: 50% 50%; }
 
-.white-block__background-others-caves {
+.white-block__background-other-caves {
   background-image: url("../img/games-barbarian-background.jpg");
   background-size: cover;
   background-position: 50% 50%; }
@@ -1824,7 +1824,7 @@ hr::after {
     font-size: 16px; }
   .white-block__list {
     font-size: 16px; }
-  .white-block__background-others-monster {
+  .white-block__background-other-monster {
     background-position: 34% 50%; } }
 
 @media (min-width: 768px) {
@@ -1876,7 +1876,7 @@ hr::after {
   .white-block__list {
     font-size: 18px;
     line-height: 25px; }
-  .white-block__background-others-monster {
+  .white-block__background-other-monster {
     background-position: 50% 50%; } }
 
 @media (min-width: 1200px) {
@@ -1927,7 +1927,7 @@ hr::after {
   .white-block__list {
     font-size: 18px;
     line-height: 25px; }
-  .white-block__background-others-monster {
+  .white-block__background-other-monster {
     background-position: 50% 50%; }
   .white-block__button--short {
     width: 280px; } }
