@@ -1702,6 +1702,11 @@ hr::after {
   background-color: #4458D6;
   color: white !important; }
 
+.white-block__background-other-palladium {
+  background-image: url("../img/games-palladium-background.jpg");
+  background-size: cover;
+  background-position: 50% 50%; }
+
 .white-block__background-other-know-everything {
   background-image: url("../img/games-know-everything-background.jpg");
   background-size: cover;
